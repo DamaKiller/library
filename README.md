@@ -23,3 +23,6 @@
 
 **Github教程：** https://backlog.com/git-tutorial/cn/intro/intro1_1.html
 > 非常不错的GitHub上手教程。
+
+**Github徽章制作：** https://shields.io/
+> 可以制作美化用的小徽章
