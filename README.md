@@ -5,6 +5,9 @@
 **Python语言类型问题:** https://cloud.tencent.com/developer/article/1691950
 > 详细阐述了python是什么类型语言的问题。  
 
+**python如何运作演示网站:** https://pythontutor.com/visualize.html#mode=edit
+> python代码是如何运作的演示网站。
+
 # 开发工具
 ### markdown
 ***
@@ -17,3 +20,6 @@
 
 **Github支持emoji对照表：** https://www.webfx.com/tools/emoji-cheat-sheet/
 > 现阶段可以在Github上使用的所用emoji表情代码。
+
+**Github教程：** https://backlog.com/git-tutorial/cn/intro/intro1_1.html
+> 非常不错的GitHub上手教程。
