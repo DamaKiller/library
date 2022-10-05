@@ -26,3 +26,8 @@
 
 **Github徽章制作：** https://shields.io/
 > 可以制作美化用的小徽章
+
+### AWS
+***  
+**AWS云计算实战：**  [AWS云计算实战](./book_source/AWS云计算实战.pdf)
+> 可以对AWS有个初步的了解，不错的AWS参考书籍。
