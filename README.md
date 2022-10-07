@@ -31,3 +31,9 @@
 ***  
 **AWS云计算实战：**  [AWS云计算实战](./book_source/AWS云计算实战.pdf)
 > 可以对AWS有个初步的了解，不错的AWS参考书籍。
+
+# 数据库
+### redis
+**ubuntu安装redis6.0** https://blog.csdn.net/guo_ridgepole/article/details/121877338
+> 该博客写了如何在Ubuntu中安装redis6.0
+
