@@ -37,3 +37,7 @@
 **ubuntu安装redis6.0** https://blog.csdn.net/guo_ridgepole/article/details/121877338
 > 该博客写了如何在Ubuntu中安装redis6.0
 
+
+### sql
+**MySQL索引类型** http://c.biancheng.net/view/7897.html
+> 该博客详细介绍了sql中索引的种类
