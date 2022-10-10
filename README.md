@@ -37,6 +37,8 @@
 **ubuntu安装redis6.0** https://blog.csdn.net/guo_ridgepole/article/details/121877338
 > 该博客写了如何在Ubuntu中安装redis6.0
 
+**redis发布和订阅** https://blog.csdn.net/w15558056319/article/details/121490953
+> 详细讲解了redis中发布和订阅功能
 
 ### sql
 **MySQL索引类型** http://c.biancheng.net/view/7897.html
