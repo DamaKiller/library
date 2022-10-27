@@ -32,6 +32,11 @@
 **AWS云计算实战：**  [AWS云计算实战](./book_source/AWS云计算实战.pdf)
 > 可以对AWS有个初步的了解，不错的AWS参考书籍。
 
+### 其他
+***
+**代码在线高亮:**  https://highlightcode.com/
+> 可以将代码编辑成可以粘贴到word中的格式。
+
 # 数据库
 ### redis
 **ubuntu安装redis6.0：** https://blog.csdn.net/guo_ridgepole/article/details/121877338
