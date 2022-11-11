@@ -49,7 +49,7 @@
 **MySQL索引类型：** http://c.biancheng.net/view/7897.html
 > 该博客详细介绍了sql中索引的种类
 
-**SQL必知必会：** [SQL必知必会(第五版)](./book_source/SQL必知必会(第五版).pdf)
+**SQL必知必会：** [SQL必知必会（第5版)](./book_source/SQL必知必会（第5版).pdf)
 > SQL必读的经典书籍
 
 # 算法
