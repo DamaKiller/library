@@ -8,6 +8,9 @@
 **python如何运作演示网站:** https://pythontutor.com/visualize.html#mode=edit
 > python代码是如何运作的演示网站。
 
+**datetime库的使用：** http://www.zzvips.com/article/152592.html
+> python datetime库的各种方法介绍
+
 # 开发工具
 ### markdown
 ***
